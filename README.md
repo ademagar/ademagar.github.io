@@ -1,4 +1,4 @@
-<img src:"./assets/header.png" width="auto">
+<img src="/assets/header.png" width="auto">
 
 # Hi there 👋 **I'm Adem** ━ Full-stack Developer
 
