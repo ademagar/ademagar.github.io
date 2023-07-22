@@ -33,13 +33,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/ad3magar) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@ademagar)
 
-<details>
-<summary>More about Me</summary>
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademagar&layout=compact&theme=tokyonight)
-![Adem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademagar&show_icons=true&theme=tokyonight)
+Also, you can find more information about me on this repo👇🏻
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ademagar&theme=tokyonight)
-
-</details> 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ademagar&repo=ademagar&show_owner)](https://github.com/ademagar/ademagar)
